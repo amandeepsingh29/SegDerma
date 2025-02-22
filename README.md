@@ -121,4 +121,7 @@ Special thanks to the developers of **DermoSegDiff** for the foundational archit
 ## License
 [MIT License](LICENSE)
 
+## Contributors
+- [Armeen Kaur Luthra](https://github.com/armeenkaur)
+- [Denoising Diffusion PyTorch (lucidrains)](https://github.com/amandeepsingh29)
 
