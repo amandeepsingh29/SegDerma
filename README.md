@@ -111,5 +111,5 @@ Special thanks to the developers of **DermoSegDiff** for the foundational archit
 
 ## Contributors
 - [Armeen Kaur Luthra](https://github.com/armeenkaur)
-- [Denoising Diffusion PyTorch (lucidrains)](https://github.com/amandeepsingh29)
+- [Amandeep Singh)](https://github.com/amandeepsingh29)
 
