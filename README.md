@@ -76,19 +76,7 @@ tqdm==4.65.0
 
 ---
 
-## Citation
 
-If you use **SegDerma** in your research, please cite:
-
-```bibtex
-@inproceedings{your2023segderma,
-  title={SegDerma: Enhanced Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation},
-  author={Your Name},
-  booktitle={Predictive Intelligence in Medicine},
-  year={2023},
-  organization={Springer Nature Switzerland}
-}
-```
 
 ### Related Work Citation
 
