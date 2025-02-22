@@ -63,32 +63,6 @@ tqdm==4.65.0
 
 ---
 
-## Usage
-
-### Training
-Modify the relevant config file and run:
-```bash
-python src/training.py -c /path/to/config/file
-```
-**Optional Parameters:**
-```bash
-python src/training.py -c /path/to/config/file -n SegDerma_Model -b 8 -l 0.0001 -e 200
-```
-
-### Sampling & Testing
-```bash
-python src/testing.py -c /path/to/config/file
-```
-To use custom weights, set:
-```yaml
-testing:
-  model_weights:
-    overload: true
-    file_path: /path/to/weights.pth
-```
-
----
-
 ## Evaluation Results
 
 <p align="center">
