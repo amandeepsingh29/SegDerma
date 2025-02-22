@@ -1,7 +1,5 @@
 # SegDerma: Enhanced Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2309.00108-b31b1b.svg)](https://arxiv.org/abs/2308.02959)
-
 ## Overview
 
 **SegDerma** is an advanced diffusion-based segmentation framework for precise skin lesion delineation. Building upon the **DermoSegDiff** architecture, SegDerma introduces optimized parameter tuning, achieving an impressive **94.7% accuracy** on benchmark datasets. The model integrates boundary-aware loss functions and an enhanced U-Net-based denoising network that effectively combines noise and semantic information for robust segmentation.
