@@ -147,11 +147,4 @@ Special thanks to the developers of **DermoSegDiff** for the foundational archit
 ## License
 [MIT License](LICENSE)
 
----
-
-## Contact
-For questions and collaborations:
-- **Author:** Your Name  
-- **Email:** your.email@example.com
-- **GitHub:** [YourGitHubProfile](https://github.com/YourGitHubProfile)
 
